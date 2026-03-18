@@ -1,0 +1,10 @@
+torch>=2.0.0
+diffusers>=0.27.0
+transformers>=4.38.0
+accelerate>=0.27.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.0.0
+pyngrok>=7.0.0
+Pillow>=10.0.0
+safetensors>=0.4.0
